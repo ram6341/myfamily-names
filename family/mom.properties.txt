@@ -1,0 +1,3 @@
+FirstName=Ratnamala
+LastName=Gujjeti
+YearBorn=1960
